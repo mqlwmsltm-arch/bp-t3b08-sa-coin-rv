@@ -9,27 +9,9 @@
   <lastBuildDate>Mon, 15 Jun 2026 19:53:44 GMT</lastBuildDate>
   <atom:link href="https://sangam-coin-song.node-link.shop/feed.xml" rel="self" type="application/rss+xml" />
   
-    <item>
-      <title><![CDATA[Slide 7 데이터 패턴 비교로 보는, 상암 코인노래방 선택의 기준]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/checklist-004-15blx01.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/checklist-004-15blx01.html</guid>
-      <description><![CDATA["그 슬라이드, 헤더가 깨져있었어." 현장 대화 한 줄처럼 시작하면 더 와닿지? 실제 보안 로그를 뜯어보면 특정 시점마다 헤더 checksum 이 0x5F 로 고정되는 버그 패턴이 존재한다. 이 데이터 이상은 단순히 소프트웨어 오류가 아니라, 하드웨어 리소스 할당 논리]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[박스 찢음 한 번에 소멸되는 2003 년 파리 더크의 숨겨진 가치]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/checklist-004-1je6rah.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/checklist-004-1je6rah.html</guid>
-      <description><![CDATA["네, 박스는 뭐가 중요한 거야?" 그 대답은 리셀 가격 결정권을 쥐고 있단다. 오리지널 박스가 훼손되면 시장에서는 즉시 40% 가량 폭락한다고 봐도 무방하다. Custom 작가로서 박스 상태를 보고 제품 등급을 정하는데, 박스가 부러진 건 내부 패딩 상태까지 의심하게]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 후기]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/checklist-004-dx70xm.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/checklist-004-dx70xm.html</guid>
-      <description><![CDATA[상암동 주변에서 즐길 수 있는 코인노래방은 퇴근길 직장인이나 지역 주민들이 부담 없이 찾아가 스트레스를 풀기 좋은 문화 공간입니다. 혼자서 노래를 즐기는 사람부터 동료나 친구들과 함께 방문하는 이용자까지 누구나 편안하게 이용할 수 있도록 쾌적한 시설과 최신 음향 장비를 갖추고 있습니다.]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
+    
+    
+    
     <item>
       <title><![CDATA[상암 코인노래방 후기로 본 데모버전의 프레임 비결]]></title>
       <link>https://sangam-coin-song.node-link.shop/posts/compare-003-1y5g4tv.html</link>
@@ -37,27 +19,9 @@
       <description><![CDATA[dark_souls_1_demo, speedrun_glitch_analysis, boss_spawn_frame_capture, map_geometry_comparison, dark_soul_1_release:1.3 아, 진짜... 제가 처음에 이 스킵을 시도할 땐 24]]></description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 후기로 본 엘든링 미사용 보스의 실전 난이도 평가]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/compare-003-blsmo8.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/compare-003-blsmo8.html</guid>
-      <description><![CDATA[2023 년 여름, 메모리 덤프를 열어보던 그 순간 커서가 멈췄다. 화면 하단에 나타나는 패치 버전은 최신이 아니었고, 숨겨진 아셋 파일들이 그보다 더 오래된 구조였다. 디버거가 잡는 데이터 흐름을 따라가면, 미사용 보스 모델이 단순히 잊혀진 건 아니라 메모리 할당량 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 선택은 싱글프레임 편집과 같다]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/compare-003-i5e2s7.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/compare-003-i5e2s7.html</guid>
-      <description><![CDATA[2024 년 1 월, 상암동 지하 2 층에서 특정 주파수 대역의 왜곡이 발생했다. 초보자는 '기기 고장'으로 판단하고 리셋 버튼을 누르지만, 숙련자는 그 왜곡이 '숨겨진 장면'임을 알았다. 당신이 찾는 건 단순히 노래가 잘 나오는 곳이 아니라, 편집기처럼 잘라낸 세부 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[상암 코인노래방에서 본 나이키 박스지 밀도, 진품 감별 실수 한 번이면 삼백만원 날아간다]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/field_note-001-o601l1.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/field_note-001-o601l1.html</guid>
-      <description><![CDATA[0.1% 스티치 밀도 차이가 300 만원 손실로 직결되는 순간, 대부분의 리셀러는 여기서 눈을 떴다. 특히 상암 코인노래방처럼 시끄러운 곳에서 박스지를 직접 만져보면 재질 차이와 감별의 중요성이 더 선명하게 다가온다. 노래방 기계 소음이 들릴 정도로 집중해야 할 때는 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
+    
+    
+    
     <item>
       <title><![CDATA[상암 코인노래방의 숨겨진 프로젝트 1972 를 해독하는 법]]></title>
       <link>https://sangam-coin-song.node-link.shop/posts/guide-001-1b9v8co.html</link>
@@ -65,27 +29,9 @@
       <description><![CDATA[1972 년 의회 청문회에서 공개되지 않은 MK 울트라 서브프로젝트 코드명 세 가지를 기준으로 보면, 대부분의 시스템 사용자가 놓치는 공통점이 명확해진다. 마치 당시 CIA 가 내부 USB 원본과 언론에 흘린 뉴스판을 비교하듯, 상암 코인노래방의 실제 운영 프로토콜도 ]]></description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 - 타이러 더든보다 먼저 등장한 싱글 프레임의 진실]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/guide-001-9mexw2.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/guide-001-9mexw2.html</guid>
-      <description><![CDATA[대부분의 관객은 그 짧은 깜빡임을 우연의 오류로 치부한다. 하지만 소품 담당자의 시선으로 재조명하면 그것은 제작비 부족이 낳은 의도적 결함이었다. 상암 코인노래방에서 동전 넣는 소리가 확실한 것처럼, 화면의 미세한 노이즈가 분위기를 결정하는 핵심 요소다. ## Myth]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 소리가 끊기던 그날, 데모 버전에 숨은 맵 데이터 진실]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/guide-001-gfpedt.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/guide-001-gfpedt.html</guid>
-      <description><![CDATA[대부분의 개발자는 데모를 단순 홍보용으로만 보지만... 그게 아니야.데모 버전은 실제 출시 전의 서버 부하와 지역 로드맵을 테스트하는 최종 리허설이야.마치 상암 코인노래방에서 곡 순서를 미리 정해두는 것과 비슷하지, 중요한 건 그 흐름이 끊기지 않게 하는 거다. 이걸 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 후기만큼 중요한, 타일러 등장 전의 그 0.1 초 프레임들]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/guide-002-a0to0z.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/guide-002-a0to0z.html</guid>
-      <description><![CDATA[타일러 더든이 화면에 완전히 모습을 드러내기 전까지 걸린 시간 총계는 47 프레임이다. 그리고 이 중 32 개가 단일 프레임으로 삽입된 숨은 디테일이었다. 소품 담당자의 시선으로 보면, 당시 제작비는 극히 부족했고 알리익스프레스에서 구한 비싼 조명도 없었기에 눈여겨본 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
+    
+    
+    
     <item>
       <title><![CDATA[박스지 뚪린 소리와 스티치 밀도, 상암에서 들은 그 소음까지]]></title>
       <link>https://sangam-coin-song.node-link.shop/posts/myth-005-15uf4m7.html</link>
@@ -93,33 +39,9 @@
       <description><![CDATA[nike, sb dunk low, paris, 2003 vs 2021 retro, sneaker box, stitch detail, leather, unisex footwear 내부에서 확인한 바에 따르면, 2003 년판의 원단 중량과 2021 년 레트로의 재질 사이에]]></description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
-    <item>
-      <title><![CDATA[MK-1972 코드 누락과 상암 코인노래방의 숨겨진 인터페이스 논리]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/myth-005-1h8n0is.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/myth-005-1h8n0is.html</guid>
-      <description><![CDATA[vintage-document, typewriter-texture, classified-file-stamp, dusty-paper-closeup, blue-ribbon-tie 1972 년 청문회 기록의 총 페이지 수는 3,482 장이었지만, 실제 코드화된 정보는 3,1]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[상암 코인노래방 후기]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/qa-002-1y7fueg.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/qa-002-1y7fueg.html</guid>
-      <description><![CDATA[상암동 주변은 다양한 IT 기업과 방송국이 밀집해 있어 업무나 방송 관람 후 가볍게 여가를 즐기려는 사람들의 발길이 꾸준히 이어지는 곳입니다. 이곳에서 짧은 시간 동안 부담 없이 스트레스를 해소하기에 좋은 시설로 코인노래방이 많은 관심을 받고 있습니다. 시간 제약 없이 원하는 곡 수만큼 곡을 선택해 부를 수 있는 효율성이 큰 장점입니다.]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Slide 7 은 왜 숨겨졌나? 상암 코인노래방 기계보다 더 심한 기록]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/qa-002-fua54m.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/qa-002-fua54m.html</guid>
-      <description><![CDATA[현장에서 들은 말 한 줄만 믿으면 죽는다.## Slide 7 의 진짜 데이터 구조 전직 분석관 눈엔 단순한 번호가 아니었다. 그 페이지는 통신 패턴의 '간격'까지 포착하는 알고리즘을 담고 있었다. 보통 언론은 IP 주소나 통화 시간만 강조하지만, 슬라이드 7 은 메타데]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[슬라이드 7 장의 숨겨진 신호, 상암 코인노래방에서 확인한 그 패턴]]></title>
-      <link>https://sangam-coin-song.node-link.shop/posts/qa-002-re24yu.html</link>
-      <guid isPermaLink="true">https://sangam-coin-song.node-link.shop/posts/qa-002-re24yu.html</guid>
-      <description><![CDATA["그날 오후 3 시에 스캔된 파일의 헤더, 상암에서 들려오는 음원 데이터와 얼마나 겹치는지 아나?" ## 01. 메타데이터의 시간적 편차 구글 트렌드에서 `Slide_7` 관련 검색은 공식 공개일보다 48 시간 먼저 뚝뚝 났어. 일반적인 뉴스 사이클과 다른 이 시차는 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
+    
+    
+    
+    
 </channel>
 </rss>
